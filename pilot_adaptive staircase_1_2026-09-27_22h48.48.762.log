@@ -1,0 +1,1161 @@
+6.4944 	INFO 	Loaded monitor calibration from ['2026_08_23 20:49']
+6.8566 	INFO 	Using renderer 'Intel(R) UHD Graphics' for graphics
+6.8566 	INFO 	OpenGL version supported by driver is 4..
+6.9342 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000017B89595690>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000017B89597850>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000017B9199FB50>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(240.0), np.float64(60.0)], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.9342 	EXP 	window1: backgroundImage = ''
+6.9342 	EXP 	window1: backgroundFit = 'none'
+6.9636 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9738 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9841 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+6.9947 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0049 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0159 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0278 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0383 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0486 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0583 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0689 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0788 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0883 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.0982 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1080 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1187 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1297 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1395 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1500 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1608 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1709 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.1713 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.2634 	DEBUG 	Upload of Texture Font fontname complete
+7.3011 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.3114 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.3230 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.3233 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.3365 	DEBUG 	Upload of Texture Font fontname complete
+7.3377 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.3377 	EXP 	window1: recordFrameIntervals = False
+7.5314 	EXP 	window1: recordFrameIntervals = True
+9.1982 	EXP 	window1: recordFrameIntervals = False
+9.1983 	EXP 	Screen (0) actual frame rate measured at 60.02Hz
+9.2164 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2261 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2355 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2451 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2547 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2642 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2735 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2830 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.2925 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3020 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3023 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.3040 	DEBUG 	Upload of Texture Font fontname complete
+9.4194 	INFO 	keyboard.Keyboard is using ptb backend.
+9.4195 	EXP 	adaptive staircase_1: status = STARTED
+9.4248 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.5062 	EXP 	Created grating = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, anchor='center', autoDraw=False, autoLog=True, blendmode='avg', color=array([0.5, 0.5, 0.5]), colorSpace='rgb', contrast=0.5, depth=-2.0, draggable=False, interpolate=True, mask='gauss', maskParams=None, name='grating', opacity=1, ori=1.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([8., 8.]), size=array([0.3, 0.3]), tex='sin', texRes=128.0, units='height', win=Window(...))
+0.0067 	WARNING 	Increasing number of minimum required reversals to the number of step sizes, (4).
+0.0224 	EXP 	grating: ori = np.float64(10.0)
+0.0224 	EXP 	fixation: autoDraw = True
+0.5441 	INFO 	Keyboard events cleared
+0.5440 	EXP 	grating: autoDraw = True
+0.5440 	EXP 	grating: tex = 'sin'
+0.5550 	EXP 	fixation: autoDraw = False
+0.8586 	EXP 	grating: autoDraw = False
+4.2300 	EXP 	Device response: <KeyPress from None: t=4.2014188000466675, value=right, duration=None>
+4.2319 	DATA 	Keypress: right
+4.2377 	EXP 	fixation: autoDraw = False
+4.2377 	EXP 	grating: autoDraw = False
+4.2377 	EXP 	grating: ori = np.float64(8.0)
+4.2377 	EXP 	fixation: autoDraw = True
+4.3593 	EXP 	Device response: <KeyPress from None: t=4.2014188000466675, value=right, duration=0.1458947998471558>
+4.7415 	INFO 	Keyboard events cleared
+4.7413 	EXP 	fixation: autoDraw = False
+4.7413 	EXP 	grating: autoDraw = True
+5.0410 	EXP 	grating: autoDraw = False
+5.5405 	EXP 	Device response: <KeyPress from None: t=5.535573999863118, value=right, duration=None>
+5.5411 	DATA 	Keypress: right
+5.5557 	EXP 	fixation: autoDraw = False
+5.5557 	EXP 	grating: autoDraw = False
+5.5557 	EXP 	grating: ori = np.float64(-6.0)
+5.5557 	EXP 	fixation: autoDraw = True
+5.6971 	EXP 	Device response: <KeyPress from None: t=5.535573999863118, value=right, duration=0.15485100005753338>
+6.0413 	INFO 	Keyboard events cleared
+6.0412 	EXP 	grating: autoDraw = True
+6.0578 	EXP 	fixation: autoDraw = False
+6.3411 	EXP 	grating: autoDraw = False
+6.6635 	DATA 	Keypress: left
+6.6799 	EXP 	Device response: <KeyPress from None: t=6.662774399854243, value=left, duration=None>
+6.6911 	EXP 	fixation: autoDraw = False
+6.6911 	EXP 	grating: autoDraw = False
+6.6911 	EXP 	grating: ori = np.float64(-4.0)
+6.6911 	EXP 	fixation: autoDraw = True
+6.8622 	EXP 	Device response: <KeyPress from None: t=6.662774399854243, value=left, duration=0.18826090008951724>
+7.1926 	INFO 	Keyboard events cleared
+7.1924 	EXP 	fixation: autoDraw = False
+7.1924 	EXP 	grating: autoDraw = True
+7.5077 	EXP 	grating: autoDraw = False
+7.8123 	EXP 	Device response: <KeyPress from None: t=7.796881400048733, value=left, duration=None>
+7.8135 	DATA 	Keypress: left
+7.8247 	EXP 	fixation: autoDraw = False
+7.8247 	EXP 	grating: autoDraw = False
+7.8247 	EXP 	grating: ori = np.float64(2.0)
+7.8247 	EXP 	fixation: autoDraw = True
+8.0129 	EXP 	Device response: <KeyPress from None: t=7.796881400048733, value=left, duration=0.2123994999565184>
+8.3236 	INFO 	Keyboard events cleared
+8.3235 	EXP 	grating: autoDraw = True
+8.3406 	EXP 	fixation: autoDraw = False
+8.6246 	EXP 	grating: autoDraw = False
+8.8462 	EXP 	Device response: <KeyPress from None: t=8.842299199895933, value=right, duration=None>
+8.8477 	DATA 	Keypress: right
+8.8576 	EXP 	fixation: autoDraw = False
+8.8576 	EXP 	grating: autoDraw = False
+8.8576 	EXP 	grating: ori = np.float64(-1.0)
+8.8576 	EXP 	fixation: autoDraw = True
+8.9778 	EXP 	Device response: <KeyPress from None: t=8.842299199895933, value=right, duration=0.12179120001383126>
+9.3588 	INFO 	Keyboard events cleared
+9.3586 	EXP 	fixation: autoDraw = False
+9.3586 	EXP 	grating: autoDraw = True
+9.6579 	EXP 	grating: autoDraw = False
+9.8623 	EXP 	Device response: <KeyPress from None: t=9.858868799870834, value=left, duration=None>
+9.8633 	DATA 	Keypress: left
+9.8740 	EXP 	fixation: autoDraw = False
+9.8740 	EXP 	grating: autoDraw = False
+9.8740 	EXP 	grating: ori = np.float64(1.0)
+9.8740 	EXP 	fixation: autoDraw = True
+10.0794 	EXP 	Device response: <KeyPress from None: t=9.858868799870834, value=left, duration=0.2177687999792397>
+10.3741 	INFO 	Keyboard events cleared
+10.3740 	EXP 	fixation: autoDraw = False
+10.3740 	EXP 	grating: autoDraw = True
+10.6739 	EXP 	grating: autoDraw = False
+11.2127 	EXP 	Device response: <KeyPress from None: t=11.197855900041759, value=right, duration=None>
+11.2140 	DATA 	Keypress: right
+11.2246 	EXP 	fixation: autoDraw = False
+11.2246 	EXP 	grating: autoDraw = False
+11.2246 	EXP 	grating: ori = np.float64(-1.0)
+11.2246 	EXP 	fixation: autoDraw = True
+11.3450 	EXP 	Device response: <KeyPress from None: t=11.197855900041759, value=right, duration=0.1335727998521179>
+11.7245 	INFO 	Keyboard events cleared
+11.7243 	EXP 	fixation: autoDraw = False
+11.7243 	EXP 	grating: autoDraw = True
+12.0240 	EXP 	grating: autoDraw = False
+12.4141 	EXP 	Device response: <KeyPress from None: t=12.409197099972516, value=left, duration=None>
+12.4154 	DATA 	Keypress: left
+12.4241 	EXP 	fixation: autoDraw = False
+12.4241 	EXP 	grating: autoDraw = False
+12.4241 	EXP 	grating: ori = np.float64(1.0)
+12.4241 	EXP 	fixation: autoDraw = True
+12.5634 	EXP 	Device response: <KeyPress from None: t=12.409197099972516, value=left, duration=0.1534957999829203>
+12.9239 	INFO 	Keyboard events cleared
+12.9237 	EXP 	fixation: autoDraw = False
+12.9237 	EXP 	grating: autoDraw = True
+13.2398 	EXP 	grating: autoDraw = False
+13.7117 	EXP 	Device response: <KeyPress from None: t=13.699887699913234, value=right, duration=None>
+13.7129 	DATA 	Keypress: right
+13.7240 	EXP 	fixation: autoDraw = False
+13.7240 	EXP 	grating: autoDraw = False
+13.7240 	EXP 	grating: ori = np.float64(1.0)
+13.7240 	EXP 	fixation: autoDraw = True
+13.8251 	EXP 	Device response: <KeyPress from None: t=13.699887699913234, value=right, duration=0.11158689996227622>
+14.2240 	INFO 	Keyboard events cleared
+14.2239 	EXP 	fixation: autoDraw = False
+14.2239 	EXP 	grating: autoDraw = True
+14.5240 	EXP 	grating: autoDraw = False
+14.8477 	EXP 	Device response: <KeyPress from None: t=14.84516100003384, value=right, duration=None>
+14.8490 	DATA 	Keypress: right
+14.8569 	EXP 	fixation: autoDraw = False
+14.8569 	EXP 	grating: autoDraw = False
+14.8569 	EXP 	grating: ori = np.float64(1.0)
+14.8569 	EXP 	fixation: autoDraw = True
+14.9940 	EXP 	Device response: <KeyPress from None: t=14.84516100003384, value=right, duration=0.13963470002636313>
+15.3585 	INFO 	Keyboard events cleared
+15.3581 	EXP 	fixation: autoDraw = False
+15.3581 	EXP 	grating: autoDraw = True
+15.6575 	EXP 	grating: autoDraw = False
+15.9794 	EXP 	Device response: <KeyPress from None: t=15.97502369992435, value=right, duration=None>
+15.9805 	DATA 	Keypress: right
+15.9903 	EXP 	fixation: autoDraw = False
+15.9903 	EXP 	grating: autoDraw = False
+15.9903 	EXP 	grating: ori = np.float64(-1.0)
+15.9903 	EXP 	fixation: autoDraw = True
+16.1110 	EXP 	Device response: <KeyPress from None: t=15.97502369992435, value=right, duration=0.12500960007309914>
+16.4907 	INFO 	Keyboard events cleared
+16.4905 	EXP 	fixation: autoDraw = False
+16.4905 	EXP 	grating: autoDraw = True
+16.7913 	EXP 	grating: autoDraw = False
+17.0607 	EXP 	Device response: <KeyPress from None: t=17.053517800057307, value=left, duration=None>
+17.0618 	DATA 	Keypress: left
+17.0729 	EXP 	fixation: autoDraw = False
+17.0729 	EXP 	grating: autoDraw = False
+17.0729 	EXP 	grating: ori = np.float64(1.0)
+17.0729 	EXP 	fixation: autoDraw = True
+17.2460 	EXP 	Device response: <KeyPress from None: t=17.053517800057307, value=left, duration=0.1812200997956097>
+17.5743 	INFO 	Keyboard events cleared
+17.5741 	EXP 	fixation: autoDraw = False
+17.5741 	EXP 	grating: autoDraw = True
+17.8743 	EXP 	grating: autoDraw = False
+18.4627 	EXP 	Device response: <KeyPress from None: t=18.45838229986839, value=right, duration=None>
+18.4638 	DATA 	Keypress: right
+18.4739 	EXP 	fixation: autoDraw = False
+18.4739 	EXP 	grating: autoDraw = False
+18.4739 	EXP 	grating: ori = np.float64(1.0)
+18.4739 	EXP 	fixation: autoDraw = True
+18.6119 	EXP 	Device response: <KeyPress from None: t=18.45838229986839, value=right, duration=0.14222200005315244>
+18.9722 	INFO 	Keyboard events cleared
+18.9721 	EXP 	grating: autoDraw = True
+18.9890 	EXP 	fixation: autoDraw = False
+19.2742 	EXP 	grating: autoDraw = False
+19.6118 	EXP 	Device response: <KeyPress from None: t=19.60429299995303, value=left, duration=None>
+19.6130 	DATA 	Keypress: left
+19.6238 	EXP 	fixation: autoDraw = False
+19.6238 	EXP 	grating: autoDraw = False
+19.6238 	EXP 	grating: ori = np.float64(2.0)
+19.6238 	EXP 	fixation: autoDraw = True
+19.7806 	EXP 	Device response: <KeyPress from None: t=19.60429299995303, value=left, duration=0.168070700019598>
+20.1239 	INFO 	Keyboard events cleared
+20.1237 	EXP 	fixation: autoDraw = False
+20.1237 	EXP 	grating: autoDraw = True
+20.4239 	EXP 	grating: autoDraw = False
+20.7953 	EXP 	Device response: <KeyPress from None: t=20.79414079990238, value=right, duration=None>
+20.7964 	DATA 	Keypress: right
+20.8068 	EXP 	fixation: autoDraw = False
+20.8068 	EXP 	grating: autoDraw = False
+20.8068 	EXP 	grating: ori = np.float64(-2.0)
+20.8068 	EXP 	fixation: autoDraw = True
+20.9293 	EXP 	Device response: <KeyPress from None: t=20.79414079990238, value=right, duration=0.12709220009855926>
+21.3069 	INFO 	Keyboard events cleared
+21.3068 	EXP 	fixation: autoDraw = False
+21.3068 	EXP 	grating: autoDraw = True
+21.6068 	EXP 	grating: autoDraw = False
+21.8617 	EXP 	Device response: <KeyPress from None: t=21.850876699900255, value=left, duration=None>
+21.8647 	DATA 	Keypress: left
+21.8736 	EXP 	fixation: autoDraw = False
+21.8736 	EXP 	grating: autoDraw = False
+21.8736 	EXP 	grating: ori = np.float64(-2.0)
+21.8736 	EXP 	fixation: autoDraw = True
+22.0464 	EXP 	Device response: <KeyPress from None: t=21.850876699900255, value=left, duration=0.18926859996281564>
+22.3743 	INFO 	Keyboard events cleared
+22.3741 	EXP 	fixation: autoDraw = False
+22.3741 	EXP 	grating: autoDraw = True
+22.6746 	EXP 	grating: autoDraw = False
+22.9455 	EXP 	Device response: <KeyPress from None: t=22.94310409994796, value=left, duration=None>
+22.9467 	DATA 	Keypress: left
+22.9570 	EXP 	fixation: autoDraw = False
+22.9570 	EXP 	grating: autoDraw = False
+22.9570 	EXP 	grating: ori = np.float64(1.0)
+22.9570 	EXP 	fixation: autoDraw = True
+23.1612 	EXP 	Device response: <KeyPress from None: t=22.94310409994796, value=left, duration=0.20696250000037253>
+23.4571 	INFO 	Keyboard events cleared
+23.4569 	EXP 	fixation: autoDraw = False
+23.4569 	EXP 	grating: autoDraw = True
+23.7571 	EXP 	grating: autoDraw = False
+24.1121 	EXP 	Device response: <KeyPress from None: t=24.104251999873668, value=right, duration=None>
+24.1134 	DATA 	Keypress: right
+24.1240 	EXP 	fixation: autoDraw = False
+24.1240 	EXP 	grating: autoDraw = False
+24.1240 	EXP 	grating: ori = np.float64(1.0)
+24.1240 	EXP 	fixation: autoDraw = True
+24.2293 	EXP 	Device response: <KeyPress from None: t=24.104251999873668, value=right, duration=0.11231940006837249>
+24.6241 	INFO 	Keyboard events cleared
+24.6239 	EXP 	fixation: autoDraw = False
+24.6239 	EXP 	grating: autoDraw = True
+24.9239 	EXP 	grating: autoDraw = False
+25.4454 	EXP 	Device response: <KeyPress from None: t=25.434495100053027, value=right, duration=None>
+25.4467 	DATA 	Keypress: right
+25.4576 	EXP 	fixation: autoDraw = False
+25.4576 	EXP 	grating: autoDraw = False
+25.4576 	EXP 	grating: ori = np.float64(-1.0)
+25.4576 	EXP 	fixation: autoDraw = True
+25.5628 	EXP 	Device response: <KeyPress from None: t=25.434495100053027, value=right, duration=0.12328579998575151>
+25.9575 	INFO 	Keyboard events cleared
+25.9573 	EXP 	fixation: autoDraw = False
+25.9573 	EXP 	grating: autoDraw = True
+26.2571 	EXP 	grating: autoDraw = False
+26.4947 	EXP 	Device response: <KeyPress from None: t=26.492993999971077, value=left, duration=None>
+26.4959 	DATA 	Keypress: left
+26.5071 	EXP 	fixation: autoDraw = False
+26.5071 	EXP 	grating: autoDraw = False
+26.5071 	EXP 	grating: ori = np.float64(-1.0)
+26.5071 	EXP 	fixation: autoDraw = True
+26.6938 	EXP 	Device response: <KeyPress from None: t=26.492993999971077, value=left, duration=0.18730859993956983>
+27.0062 	INFO 	Keyboard events cleared
+27.0061 	EXP 	fixation: autoDraw = False
+27.0061 	EXP 	grating: autoDraw = True
+27.3067 	EXP 	grating: autoDraw = False
+27.6277 	EXP 	Device response: <KeyPress from None: t=27.61432039993815, value=left, duration=None>
+27.6289 	DATA 	Keypress: left
+27.6404 	EXP 	fixation: autoDraw = False
+27.6404 	EXP 	grating: autoDraw = False
+27.6404 	EXP 	grating: ori = np.float64(1.0)
+27.6404 	EXP 	fixation: autoDraw = True
+27.7934 	EXP 	Device response: <KeyPress from None: t=27.61432039993815, value=left, duration=0.16234589996747673>
+28.1405 	INFO 	Keyboard events cleared
+28.1403 	EXP 	fixation: autoDraw = False
+28.1403 	EXP 	grating: autoDraw = True
+28.4404 	EXP 	grating: autoDraw = False
+28.9610 	EXP 	Device response: <KeyPress from None: t=28.949964700033888, value=left, duration=None>
+28.9625 	DATA 	Keypress: left
+28.9731 	EXP 	fixation: autoDraw = False
+28.9731 	EXP 	grating: autoDraw = False
+28.9731 	EXP 	grating: ori = np.float64(-1.5)
+28.9731 	EXP 	fixation: autoDraw = True
+29.1472 	EXP 	Device response: <KeyPress from None: t=28.949964700033888, value=left, duration=0.18874619994312525>
+29.4736 	INFO 	Keyboard events cleared
+29.4735 	EXP 	fixation: autoDraw = False
+29.4735 	EXP 	grating: autoDraw = True
+29.7731 	EXP 	grating: autoDraw = False
+31.0795 	DATA 	Keypress: left
+31.0943 	EXP 	Device response: <KeyPress from None: t=31.07872710004449, value=left, duration=None>
+31.1062 	EXP 	fixation: autoDraw = False
+31.1062 	EXP 	grating: autoDraw = False
+31.1062 	EXP 	grating: ori = np.float64(-1.5)
+31.1062 	EXP 	fixation: autoDraw = True
+31.2289 	EXP 	Device response: <KeyPress from None: t=31.07872710004449, value=left, duration=0.14908469980582595>
+31.6075 	INFO 	Keyboard events cleared
+31.6074 	EXP 	fixation: autoDraw = False
+31.6074 	EXP 	grating: autoDraw = True
+31.9070 	EXP 	grating: autoDraw = False
+32.4292 	DATA 	Keypress: left
+32.4444 	EXP 	Device response: <KeyPress from None: t=32.42831049999222, value=left, duration=None>
+32.4563 	EXP 	fixation: autoDraw = False
+32.4563 	EXP 	grating: autoDraw = False
+32.4563 	EXP 	grating: ori = np.float64(-1.5)
+32.4563 	EXP 	fixation: autoDraw = True
+32.5776 	EXP 	Device response: <KeyPress from None: t=32.42831049999222, value=left, duration=0.14007789990864694>
+32.9574 	INFO 	Keyboard events cleared
+32.9573 	EXP 	fixation: autoDraw = False
+32.9573 	EXP 	grating: autoDraw = True
+33.2562 	EXP 	grating: autoDraw = False
+33.5631 	EXP 	Device response: <KeyPress from None: t=33.55731579987332, value=left, duration=None>
+33.5645 	DATA 	Keypress: left
+33.5737 	EXP 	fixation: autoDraw = False
+33.5737 	EXP 	grating: autoDraw = False
+33.5737 	EXP 	grating: ori = np.float64(-1.0)
+33.5737 	EXP 	fixation: autoDraw = True
+33.7440 	EXP 	Device response: <KeyPress from None: t=33.55731579987332, value=left, duration=0.18465439998544753>
+34.0727 	INFO 	Keyboard events cleared
+34.0726 	EXP 	fixation: autoDraw = False
+34.0726 	EXP 	grating: autoDraw = True
+34.3733 	EXP 	grating: autoDraw = False
+34.7109 	EXP 	Device response: <KeyPress from None: t=34.694536899914965, value=left, duration=None>
+34.7122 	DATA 	Keypress: left
+34.7232 	EXP 	fixation: autoDraw = False
+34.7232 	EXP 	grating: autoDraw = False
+34.7232 	EXP 	grating: ori = np.float64(1.0)
+34.7232 	EXP 	fixation: autoDraw = True
+34.8780 	EXP 	Device response: <KeyPress from None: t=34.694536899914965, value=left, duration=0.18238850007764995>
+35.2217 	INFO 	Keyboard events cleared
+35.2216 	EXP 	grating: autoDraw = True
+35.2392 	EXP 	fixation: autoDraw = False
+35.5236 	EXP 	grating: autoDraw = False
+35.8785 	EXP 	Device response: <KeyPress from None: t=35.874765699962154, value=right, duration=None>
+35.8796 	DATA 	Keypress: right
+35.8893 	EXP 	fixation: autoDraw = False
+35.8893 	EXP 	grating: autoDraw = False
+35.8893 	EXP 	grating: ori = np.float64(-1.0)
+35.8893 	EXP 	fixation: autoDraw = True
+36.0277 	EXP 	Device response: <KeyPress from None: t=35.874765699962154, value=right, duration=0.14163640001788735>
+36.3906 	INFO 	Keyboard events cleared
+36.3904 	EXP 	fixation: autoDraw = False
+36.3904 	EXP 	grating: autoDraw = True
+36.6906 	EXP 	grating: autoDraw = False
+37.0123 	EXP 	Device response: <KeyPress from None: t=37.010492499917746, value=left, duration=None>
+37.0134 	DATA 	Keypress: left
+37.0231 	EXP 	fixation: autoDraw = False
+37.0231 	EXP 	grating: autoDraw = False
+37.0231 	EXP 	grating: ori = np.float64(-1.0)
+37.0231 	EXP 	fixation: autoDraw = True
+37.2112 	EXP 	Device response: <KeyPress from None: t=37.010492499917746, value=left, duration=0.19639170006848872>
+37.5243 	INFO 	Keyboard events cleared
+37.5241 	EXP 	fixation: autoDraw = False
+37.5241 	EXP 	grating: autoDraw = True
+37.8236 	EXP 	grating: autoDraw = False
+38.0932 	EXP 	Device response: <KeyPress from None: t=38.084913899889216, value=left, duration=None>
+38.0943 	DATA 	Keypress: left
+38.1065 	EXP 	fixation: autoDraw = False
+38.1065 	EXP 	grating: autoDraw = False
+38.1065 	EXP 	grating: ori = np.float64(1.0)
+38.1065 	EXP 	fixation: autoDraw = True
+38.2962 	EXP 	Device response: <KeyPress from None: t=38.084913899889216, value=left, duration=0.21009050006978214>
+38.6067 	INFO 	Keyboard events cleared
+38.6065 	EXP 	fixation: autoDraw = False
+38.6065 	EXP 	grating: autoDraw = True
+38.9062 	EXP 	grating: autoDraw = False
+39.3130 	EXP 	Device response: <KeyPress from None: t=39.30822680005804, value=right, duration=None>
+39.3142 	DATA 	Keypress: right
+39.3231 	EXP 	fixation: autoDraw = False
+39.3231 	EXP 	grating: autoDraw = False
+39.3231 	EXP 	grating: ori = np.float64(1.0)
+39.3231 	EXP 	fixation: autoDraw = True
+39.4437 	EXP 	Device response: <KeyPress from None: t=39.30822680005804, value=right, duration=0.12601829995401204>
+39.8229 	INFO 	Keyboard events cleared
+39.8228 	EXP 	fixation: autoDraw = False
+39.8228 	EXP 	grating: autoDraw = True
+40.1239 	EXP 	grating: autoDraw = False
+40.3616 	EXP 	Device response: <KeyPress from None: t=40.34602040005848, value=left, duration=None>
+40.3629 	DATA 	Keypress: left
+40.3739 	EXP 	fixation: autoDraw = False
+40.3739 	EXP 	grating: autoDraw = False
+40.3739 	EXP 	grating: ori = np.float64(1.5)
+40.3739 	EXP 	fixation: autoDraw = True
+40.5437 	EXP 	Device response: <KeyPress from None: t=40.34602040005848, value=left, duration=0.1846685998607427>
+40.8741 	INFO 	Keyboard events cleared
+40.8739 	EXP 	fixation: autoDraw = False
+40.8739 	EXP 	grating: autoDraw = True
+41.1721 	EXP 	grating: autoDraw = False
+41.3789 	EXP 	Device response: <KeyPress from None: t=41.37031070003286, value=right, duration=None>
+41.3803 	DATA 	Keypress: right
+41.3904 	EXP 	fixation: autoDraw = False
+41.3904 	EXP 	grating: autoDraw = False
+41.3904 	EXP 	grating: ori = np.float64(1.5)
+41.3904 	EXP 	fixation: autoDraw = True
+41.4939 	EXP 	Device response: <KeyPress from None: t=41.37031070003286, value=right, duration=0.11618079990148544>
+41.8904 	INFO 	Keyboard events cleared
+41.8903 	EXP 	grating: autoDraw = True
+41.9065 	EXP 	fixation: autoDraw = False
+42.2057 	EXP 	grating: autoDraw = False
+42.5622 	EXP 	Device response: <KeyPress from None: t=42.560591199900955, value=right, duration=None>
+42.5632 	DATA 	Keypress: right
+42.5729 	EXP 	fixation: autoDraw = False
+42.5729 	EXP 	grating: autoDraw = False
+42.5729 	EXP 	grating: ori = np.float64(1.5)
+42.5729 	EXP 	fixation: autoDraw = True
+42.6932 	EXP 	Device response: <KeyPress from None: t=42.560591199900955, value=right, duration=0.12013000017032027>
+43.0738 	INFO 	Keyboard events cleared
+43.0736 	EXP 	fixation: autoDraw = False
+43.0736 	EXP 	grating: autoDraw = True
+43.3732 	EXP 	grating: autoDraw = False
+43.6307 	EXP 	Device response: <KeyPress from None: t=43.623233099933714, value=right, duration=None>
+43.6322 	DATA 	Keypress: right
+43.6393 	EXP 	fixation: autoDraw = False
+43.6393 	EXP 	grating: autoDraw = False
+43.6393 	EXP 	grating: ori = np.float64(1.0)
+43.6393 	EXP 	fixation: autoDraw = True
+43.7601 	EXP 	Device response: <KeyPress from None: t=43.623233099933714, value=right, duration=0.12458129995502532>
+44.1401 	INFO 	Keyboard events cleared
+44.1400 	EXP 	fixation: autoDraw = False
+44.1400 	EXP 	grating: autoDraw = True
+44.4394 	EXP 	grating: autoDraw = False
+44.6454 	EXP 	Device response: <KeyPress from None: t=44.64411660004407, value=right, duration=None>
+44.6467 	DATA 	Keypress: right
+44.6563 	EXP 	fixation: autoDraw = False
+44.6563 	EXP 	grating: autoDraw = False
+44.6563 	EXP 	grating: ori = np.float64(1.0)
+44.6563 	EXP 	fixation: autoDraw = True
+44.7786 	EXP 	Device response: <KeyPress from None: t=44.64411660004407, value=right, duration=0.12616839981637895>
+45.1569 	INFO 	Keyboard events cleared
+45.1568 	EXP 	fixation: autoDraw = False
+45.1568 	EXP 	grating: autoDraw = True
+45.4563 	EXP 	grating: autoDraw = False
+45.7264 	EXP 	Device response: <KeyPress from None: t=45.71550179994665, value=right, duration=None>
+45.7273 	DATA 	Keypress: right
+45.7396 	EXP 	fixation: autoDraw = False
+45.7396 	EXP 	grating: autoDraw = False
+45.7396 	EXP 	grating: ori = np.float64(1.0)
+45.7396 	EXP 	fixation: autoDraw = True
+45.8422 	EXP 	Device response: <KeyPress from None: t=45.71550179994665, value=right, duration=0.11679259990341961>
+46.2424 	INFO 	Keyboard events cleared
+46.2423 	EXP 	fixation: autoDraw = False
+46.2423 	EXP 	grating: autoDraw = True
+46.5551 	EXP 	grating: autoDraw = False
+46.8773 	EXP 	Device response: <KeyPress from None: t=46.86278919992037, value=right, duration=None>
+46.8784 	DATA 	Keypress: right
+46.8895 	EXP 	fixation: autoDraw = False
+46.8895 	EXP 	grating: autoDraw = False
+46.8895 	EXP 	grating: ori = np.float64(1.0)
+46.8895 	EXP 	fixation: autoDraw = True
+47.0096 	EXP 	Device response: <KeyPress from None: t=46.86278919992037, value=right, duration=0.14232040010392666>
+47.3893 	INFO 	Keyboard events cleared
+47.3892 	EXP 	fixation: autoDraw = False
+47.3892 	EXP 	grating: autoDraw = True
+47.7046 	EXP 	grating: autoDraw = False
+48.0262 	EXP 	Device response: <KeyPress from None: t=48.0132464999333, value=right, duration=None>
+48.0271 	DATA 	Keypress: right
+48.0395 	EXP 	fixation: autoDraw = False
+48.0395 	EXP 	grating: autoDraw = False
+48.0395 	EXP 	grating: ori = np.float64(-1.0)
+48.0395 	EXP 	fixation: autoDraw = True
+48.1107 	EXP 	Device response: <KeyPress from None: t=48.0132464999333, value=right, duration=0.09347470011562109>
+48.5395 	INFO 	Keyboard events cleared
+48.5393 	EXP 	fixation: autoDraw = False
+48.5393 	EXP 	grating: autoDraw = True
+48.8394 	EXP 	grating: autoDraw = False
+49.1783 	EXP 	Device response: <KeyPress from None: t=49.17130829999223, value=left, duration=None>
+49.1794 	DATA 	Keypress: left
+49.1890 	EXP 	fixation: autoDraw = False
+49.1890 	EXP 	grating: autoDraw = False
+49.1890 	EXP 	grating: ori = np.float64(-1.0)
+49.1890 	EXP 	fixation: autoDraw = True
+49.3767 	EXP 	Device response: <KeyPress from None: t=49.17130829999223, value=left, duration=0.19656459987163544>
+49.6897 	INFO 	Keyboard events cleared
+49.6896 	EXP 	fixation: autoDraw = False
+49.6896 	EXP 	grating: autoDraw = True
+49.9899 	EXP 	grating: autoDraw = False
+50.2116 	EXP 	Device response: <KeyPress from None: t=50.20860409992747, value=left, duration=None>
+50.2130 	DATA 	Keypress: left
+50.2232 	EXP 	fixation: autoDraw = False
+50.2232 	EXP 	grating: autoDraw = False
+50.2232 	EXP 	grating: ori = np.float64(-1.0)
+50.2232 	EXP 	fixation: autoDraw = True
+50.5279 	EXP 	Device response: <KeyPress from None: t=50.20860409992747, value=left, duration=0.30158190010115504>
+50.7229 	INFO 	Keyboard events cleared
+50.7228 	EXP 	fixation: autoDraw = False
+50.7228 	EXP 	grating: autoDraw = True
+51.0226 	EXP 	grating: autoDraw = False
+51.4267 	EXP 	Device response: <KeyPress from None: t=51.42052869987674, value=left, duration=None>
+51.4277 	DATA 	Keypress: left
+51.4390 	EXP 	fixation: autoDraw = False
+51.4390 	EXP 	grating: autoDraw = False
+51.4390 	EXP 	grating: ori = np.float64(-1.0)
+51.4390 	EXP 	fixation: autoDraw = True
+51.6597 	EXP 	Device response: <KeyPress from None: t=51.42052869987674, value=left, duration=0.22309640003368258>
+51.9394 	INFO 	Keyboard events cleared
+51.9393 	EXP 	fixation: autoDraw = False
+51.9393 	EXP 	grating: autoDraw = True
+52.2405 	EXP 	grating: autoDraw = False
+52.6270 	EXP 	Device response: <KeyPress from None: t=52.623008199967444, value=left, duration=None>
+52.6284 	DATA 	Keypress: left
+52.6405 	EXP 	fixation: autoDraw = False
+52.6405 	EXP 	grating: autoDraw = False
+52.6405 	EXP 	grating: ori = np.float64(1.0)
+52.6405 	EXP 	fixation: autoDraw = True
+52.8594 	EXP 	Device response: <KeyPress from None: t=52.623008199967444, value=left, duration=0.22648150008171797>
+53.1398 	INFO 	Keyboard events cleared
+53.1396 	EXP 	fixation: autoDraw = False
+53.1396 	EXP 	grating: autoDraw = True
+53.4381 	EXP 	grating: autoDraw = False
+53.7291 	EXP 	Device response: <KeyPress from None: t=53.72404689993709, value=right, duration=None>
+53.7304 	DATA 	Keypress: right
+53.7390 	EXP 	fixation: autoDraw = False
+53.7390 	EXP 	grating: autoDraw = False
+53.7390 	EXP 	grating: ori = np.float64(1.0)
+53.7390 	EXP 	fixation: autoDraw = True
+53.8280 	EXP 	Device response: <KeyPress from None: t=53.72404689993709, value=right, duration=0.09194290009327233>
+54.2390 	INFO 	Keyboard events cleared
+54.2389 	EXP 	fixation: autoDraw = False
+54.2389 	EXP 	grating: autoDraw = True
+54.5384 	EXP 	grating: autoDraw = False
+54.8625 	DATA 	Keypress: right
+54.8771 	EXP 	Device response: <KeyPress from None: t=54.86175829987042, value=right, duration=None>
+54.8889 	EXP 	fixation: autoDraw = False
+54.8889 	EXP 	grating: autoDraw = False
+54.8889 	EXP 	grating: ori = np.float64(1.0)
+54.8889 	EXP 	fixation: autoDraw = True
+54.9919 	EXP 	Device response: <KeyPress from None: t=54.86175829987042, value=right, duration=0.11644130013883114>
+55.3892 	INFO 	Keyboard events cleared
+55.3891 	EXP 	fixation: autoDraw = False
+55.3891 	EXP 	grating: autoDraw = True
+55.6887 	EXP 	grating: autoDraw = False
+56.2090 	EXP 	Device response: <KeyPress from None: t=56.20005890005268, value=right, duration=None>
+56.2099 	DATA 	Keypress: right
+56.2224 	EXP 	fixation: autoDraw = False
+56.2224 	EXP 	grating: autoDraw = False
+56.2224 	EXP 	grating: ori = np.float64(1.0)
+56.2224 	EXP 	fixation: autoDraw = True
+56.3450 	EXP 	Device response: <KeyPress from None: t=56.20005890005268, value=right, duration=0.1402965998277068>
+56.7231 	INFO 	Keyboard events cleared
+56.7230 	EXP 	fixation: autoDraw = False
+56.7230 	EXP 	grating: autoDraw = True
+57.0227 	EXP 	grating: autoDraw = False
+57.4921 	EXP 	Device response: <KeyPress from None: t=57.483650099951774, value=right, duration=None>
+57.4931 	DATA 	Keypress: right
+57.5057 	EXP 	fixation: autoDraw = False
+57.5057 	EXP 	grating: autoDraw = False
+57.5057 	EXP 	grating: ori = np.float64(1.0)
+57.5057 	EXP 	fixation: autoDraw = True
+57.5948 	EXP 	Device response: <KeyPress from None: t=57.483650099951774, value=right, duration=0.10986600001342595>
+58.0065 	INFO 	Keyboard events cleared
+58.0064 	EXP 	fixation: autoDraw = False
+58.0064 	EXP 	grating: autoDraw = True
+58.3066 	EXP 	grating: autoDraw = False
+58.6260 	EXP 	Device response: <KeyPress from None: t=58.62376910005696, value=right, duration=None>
+58.6270 	DATA 	Keypress: right
+58.6392 	EXP 	fixation: autoDraw = False
+58.6392 	EXP 	grating: autoDraw = False
+58.6392 	EXP 	grating: ori = np.float64(-1.0)
+58.6392 	EXP 	fixation: autoDraw = True
+58.7760 	EXP 	Device response: <KeyPress from None: t=58.62376910005696, value=right, duration=0.14287530002184212>
+59.1391 	INFO 	Keyboard events cleared
+59.1389 	EXP 	fixation: autoDraw = False
+59.1389 	EXP 	grating: autoDraw = True
+59.4397 	EXP 	grating: autoDraw = False
+59.7769 	EXP 	Device response: <KeyPress from None: t=59.76312829996459, value=left, duration=None>
+59.7780 	DATA 	Keypress: left
+59.7893 	EXP 	fixation: autoDraw = False
+59.7893 	EXP 	grating: autoDraw = False
+59.7893 	EXP 	grating: ori = np.float64(-1.0)
+59.7893 	EXP 	fixation: autoDraw = True
+59.9418 	EXP 	Device response: <KeyPress from None: t=59.76312829996459, value=left, duration=0.16917130001820624>
+60.2891 	INFO 	Keyboard events cleared
+60.2890 	EXP 	fixation: autoDraw = False
+60.2890 	EXP 	grating: autoDraw = True
+60.5901 	EXP 	grating: autoDraw = False
+60.9269 	EXP 	Device response: <KeyPress from None: t=60.91870529996231, value=left, duration=None>
+60.9283 	DATA 	Keypress: left
+60.9402 	EXP 	fixation: autoDraw = False
+60.9402 	EXP 	grating: autoDraw = False
+60.9402 	EXP 	grating: ori = np.float64(1.0)
+60.9402 	EXP 	fixation: autoDraw = True
+61.1618 	EXP 	Device response: <KeyPress from None: t=60.91870529996231, value=left, duration=0.22758299997076392>
+61.4383 	INFO 	Keyboard events cleared
+61.4382 	EXP 	grating: autoDraw = True
+61.4550 	EXP 	fixation: autoDraw = False
+61.7390 	EXP 	grating: autoDraw = False
+62.2403 	EXP 	Device response: <KeyPress from None: t=62.230556400027126, value=right, duration=None>
+62.2411 	DATA 	Keypress: right
+62.2569 	EXP 	fixation: autoDraw = False
+62.2569 	EXP 	grating: autoDraw = False
+62.2569 	EXP 	grating: ori = np.float64(1.0)
+62.2569 	EXP 	fixation: autoDraw = True
+62.3600 	EXP 	Device response: <KeyPress from None: t=62.230556400027126, value=right, duration=0.11693499982357025>
+62.7394 	INFO 	Keyboard events cleared
+62.7393 	EXP 	grating: autoDraw = True
+62.7558 	EXP 	fixation: autoDraw = False
+63.0395 	EXP 	grating: autoDraw = False
+63.7611 	EXP 	Device response: <KeyPress from None: t=63.75563719985075, value=left, duration=None>
+63.7621 	DATA 	Keypress: left
+63.7723 	EXP 	fixation: autoDraw = False
+63.7723 	EXP 	grating: autoDraw = False
+63.7723 	EXP 	grating: ori = np.float64(-1.5)
+63.7723 	EXP 	fixation: autoDraw = True
+63.9088 	EXP 	Device response: <KeyPress from None: t=63.75563719985075, value=left, duration=0.142186300130561>
+64.2743 	INFO 	Keyboard events cleared
+64.2741 	EXP 	fixation: autoDraw = False
+64.2741 	EXP 	grating: autoDraw = True
+64.5730 	EXP 	grating: autoDraw = False
+64.9438 	EXP 	Device response: <KeyPress from None: t=64.9294006000273, value=left, duration=None>
+64.9450 	DATA 	Keypress: left
+64.9565 	EXP 	fixation: autoDraw = False
+64.9565 	EXP 	grating: autoDraw = False
+64.9565 	EXP 	grating: ori = np.float64(-1.5)
+64.9565 	EXP 	fixation: autoDraw = True
+65.1443 	EXP 	Device response: <KeyPress from None: t=64.9294006000273, value=left, duration=0.2123998999595642>
+65.4558 	INFO 	Keyboard events cleared
+65.4556 	EXP 	fixation: autoDraw = False
+65.4556 	EXP 	grating: autoDraw = True
+65.7565 	EXP 	grating: autoDraw = False
+66.2778 	EXP 	Device response: <KeyPress from None: t=66.27544469991699, value=left, duration=None>
+66.2790 	DATA 	Keypress: left
+66.2890 	EXP 	fixation: autoDraw = False
+66.2890 	EXP 	grating: autoDraw = False
+66.2890 	EXP 	grating: ori = np.float64(-1.5)
+66.2890 	EXP 	fixation: autoDraw = True
+66.4612 	EXP 	Device response: <KeyPress from None: t=66.27544469991699, value=left, duration=0.18485930003225803>
+66.7892 	INFO 	Keyboard events cleared
+66.7890 	EXP 	fixation: autoDraw = False
+66.7890 	EXP 	grating: autoDraw = True
+67.0898 	EXP 	grating: autoDraw = False
+67.4123 	EXP 	Device response: <KeyPress from None: t=67.40749239991419, value=left, duration=None>
+67.4134 	DATA 	Keypress: left
+67.4225 	EXP 	fixation: autoDraw = False
+67.4225 	EXP 	grating: autoDraw = False
+67.4225 	EXP 	grating: ori = np.float64(1.0)
+67.4225 	EXP 	fixation: autoDraw = True
+67.6768 	EXP 	Device response: <KeyPress from None: t=67.40749239991419, value=left, duration=0.2578857000917196>
+67.9224 	INFO 	Keyboard events cleared
+67.9222 	EXP 	fixation: autoDraw = False
+67.9222 	EXP 	grating: autoDraw = True
+68.2222 	EXP 	grating: autoDraw = False
+68.5572 	EXP 	Device response: <KeyPress from None: t=68.54569599987008, value=right, duration=None>
+68.5581 	DATA 	Keypress: right
+68.5707 	EXP 	fixation: autoDraw = False
+68.5707 	EXP 	grating: autoDraw = False
+68.5707 	EXP 	grating: ori = np.float64(1.0)
+68.5707 	EXP 	fixation: autoDraw = True
+68.6726 	EXP 	Device response: <KeyPress from None: t=68.54569599987008, value=right, duration=0.11698890011757612>
+69.0564 	INFO 	Keyboard events cleared
+69.0562 	EXP 	grating: autoDraw = True
+69.0728 	EXP 	fixation: autoDraw = False
+69.3570 	EXP 	grating: autoDraw = False
+69.5440 	EXP 	Device response: <KeyPress from None: t=69.53035439993255, value=right, duration=None>
+69.5452 	DATA 	Keypress: right
+69.5562 	EXP 	fixation: autoDraw = False
+69.5562 	EXP 	grating: autoDraw = False
+69.5562 	EXP 	grating: ori = np.float64(-1.0)
+69.5562 	EXP 	fixation: autoDraw = True
+69.6778 	EXP 	Device response: <KeyPress from None: t=69.53035439993255, value=right, duration=0.13337940000928938>
+70.0567 	INFO 	Keyboard events cleared
+70.0565 	EXP 	fixation: autoDraw = False
+70.0565 	EXP 	grating: autoDraw = True
+70.3564 	EXP 	grating: autoDraw = False
+70.4949 	EXP 	Device response: <KeyPress from None: t=70.4903861999046, value=left, duration=None>
+70.4961 	DATA 	Keypress: left
+70.5057 	EXP 	fixation: autoDraw = False
+70.5057 	EXP 	grating: autoDraw = False
+70.5057 	EXP 	grating: ori = np.float64(-1.0)
+70.5057 	EXP 	fixation: autoDraw = True
+70.6437 	EXP 	Device response: <KeyPress from None: t=70.4903861999046, value=left, duration=0.1511073000729084>
+71.0060 	INFO 	Keyboard events cleared
+71.0058 	EXP 	fixation: autoDraw = False
+71.0058 	EXP 	grating: autoDraw = True
+71.3059 	EXP 	grating: autoDraw = False
+71.6755 	EXP 	Device response: <KeyPress from None: t=71.66496209986508, value=left, duration=None>
+71.6767 	DATA 	Keypress: left
+71.6895 	EXP 	fixation: autoDraw = False
+71.6895 	EXP 	grating: autoDraw = False
+71.6895 	EXP 	grating: ori = np.float64(1.0)
+71.6895 	EXP 	fixation: autoDraw = True
+71.8588 	EXP 	Device response: <KeyPress from None: t=71.66496209986508, value=left, duration=0.1792004001326859>
+72.1897 	INFO 	Keyboard events cleared
+72.1895 	EXP 	fixation: autoDraw = False
+72.1895 	EXP 	grating: autoDraw = True
+72.4900 	EXP 	grating: autoDraw = False
+72.8106 	EXP 	Device response: <KeyPress from None: t=72.80810420005582, value=right, duration=None>
+72.8117 	DATA 	Keypress: right
+72.8222 	EXP 	fixation: autoDraw = False
+72.8222 	EXP 	grating: autoDraw = False
+72.8222 	EXP 	grating: ori = np.float64(1.0)
+72.8222 	EXP 	fixation: autoDraw = True
+72.9425 	EXP 	Device response: <KeyPress from None: t=72.80810420005582, value=right, duration=0.1224974999204278>
+73.3231 	INFO 	Keyboard events cleared
+73.3230 	EXP 	fixation: autoDraw = False
+73.3230 	EXP 	grating: autoDraw = True
+73.6372 	EXP 	grating: autoDraw = False
+73.8934 	EXP 	Device response: <KeyPress from None: t=73.87985999998637, value=right, duration=None>
+73.8945 	DATA 	Keypress: right
+73.9059 	EXP 	fixation: autoDraw = False
+73.9059 	EXP 	grating: autoDraw = False
+73.9059 	EXP 	grating: ori = np.float64(-1.0)
+73.9059 	EXP 	fixation: autoDraw = True
+74.0277 	EXP 	Device response: <KeyPress from None: t=73.87985999998637, value=right, duration=0.1439129998907447>
+74.4055 	INFO 	Keyboard events cleared
+74.4053 	EXP 	fixation: autoDraw = False
+74.4053 	EXP 	grating: autoDraw = True
+74.7204 	EXP 	grating: autoDraw = False
+74.9411 	EXP 	Device response: <KeyPress from None: t=74.93316700006835, value=left, duration=None>
+74.9420 	DATA 	Keypress: left
+74.9553 	EXP 	fixation: autoDraw = False
+74.9553 	EXP 	grating: autoDraw = False
+74.9553 	EXP 	grating: ori = np.float64(1.0)
+74.9553 	EXP 	fixation: autoDraw = True
+75.1106 	EXP 	Device response: <KeyPress from None: t=74.93316700006835, value=left, duration=0.17591919982805848>
+75.4556 	INFO 	Keyboard events cleared
+75.4554 	EXP 	fixation: autoDraw = False
+75.4554 	EXP 	grating: autoDraw = True
+75.7542 	EXP 	grating: autoDraw = False
+75.9549 	EXP 	Device response: <KeyPress from None: t=75.94836669997312, value=right, duration=None>
+75.9555 	DATA 	Keypress: right
+75.9703 	EXP 	fixation: autoDraw = False
+75.9703 	EXP 	grating: autoDraw = False
+75.9703 	EXP 	grating: ori = np.float64(1.0)
+75.9703 	EXP 	fixation: autoDraw = True
+76.0595 	EXP 	Device response: <KeyPress from None: t=75.94836669997312, value=right, duration=0.10891099995933473>
+76.4558 	INFO 	Keyboard events cleared
+76.4556 	EXP 	grating: autoDraw = True
+76.4726 	EXP 	fixation: autoDraw = False
+76.7562 	EXP 	grating: autoDraw = False
+77.2452 	EXP 	Device response: <KeyPress from None: t=77.24006940005347, value=right, duration=None>
+77.2464 	DATA 	Keypress: right
+77.2561 	EXP 	fixation: autoDraw = False
+77.2561 	EXP 	grating: autoDraw = False
+77.2561 	EXP 	grating: ori = np.float64(1.0)
+77.2561 	EXP 	fixation: autoDraw = True
+77.3454 	EXP 	Device response: <KeyPress from None: t=77.24006940005347, value=right, duration=0.10071149980649352>
+77.7559 	INFO 	Keyboard events cleared
+77.7557 	EXP 	fixation: autoDraw = False
+77.7557 	EXP 	grating: autoDraw = True
+78.0559 	EXP 	grating: autoDraw = False
+78.5425 	EXP 	Device response: <KeyPress from None: t=78.5340459998697, value=left, duration=None>
+78.5436 	DATA 	Keypress: left
+78.5554 	EXP 	fixation: autoDraw = False
+78.5554 	EXP 	grating: autoDraw = False
+78.5554 	EXP 	grating: ori = np.float64(1.5)
+78.5554 	EXP 	fixation: autoDraw = True
+78.6952 	EXP 	Device response: <KeyPress from None: t=78.5340459998697, value=left, duration=0.15864070015959442>
+79.0557 	INFO 	Keyboard events cleared
+79.0555 	EXP 	fixation: autoDraw = False
+79.0555 	EXP 	grating: autoDraw = True
+79.3559 	EXP 	grating: autoDraw = False
+79.7770 	EXP 	Device response: <KeyPress from None: t=79.7674904000014, value=right, duration=None>
+79.7784 	DATA 	Keypress: right
+79.7887 	EXP 	fixation: autoDraw = False
+79.7887 	EXP 	grating: autoDraw = False
+79.7887 	EXP 	grating: ori = np.float64(1.5)
+79.7887 	EXP 	fixation: autoDraw = True
+79.8571 	EXP 	Device response: <KeyPress from None: t=79.7674904000014, value=right, duration=0.08630759990774095>
+80.2893 	INFO 	Keyboard events cleared
+80.2891 	EXP 	fixation: autoDraw = False
+80.2891 	EXP 	grating: autoDraw = True
+80.5890 	EXP 	grating: autoDraw = False
+80.8449 	EXP 	Device response: <KeyPress from None: t=80.8439913999755, value=right, duration=None>
+80.8462 	DATA 	Keypress: right
+80.8558 	EXP 	fixation: autoDraw = False
+80.8558 	EXP 	grating: autoDraw = False
+80.8558 	EXP 	grating: ori = np.float64(-1.5)
+80.8558 	EXP 	fixation: autoDraw = True
+80.9596 	EXP 	Device response: <KeyPress from None: t=80.8439913999755, value=right, duration=0.09946079994551837>
+81.3560 	INFO 	Keyboard events cleared
+81.3559 	EXP 	fixation: autoDraw = False
+81.3559 	EXP 	grating: autoDraw = True
+81.6547 	EXP 	grating: autoDraw = False
+81.8929 	EXP 	Device response: <KeyPress from None: t=81.88514979998581, value=left, duration=None>
+81.8941 	DATA 	Keypress: left
+81.9053 	EXP 	fixation: autoDraw = False
+81.9053 	EXP 	grating: autoDraw = False
+81.9053 	EXP 	grating: ori = np.float64(1.0)
+81.9053 	EXP 	fixation: autoDraw = True
+82.1266 	EXP 	Device response: <KeyPress from None: t=81.88514979998581, value=left, duration=0.22892750008031726>
+82.4057 	INFO 	Keyboard events cleared
+82.4055 	EXP 	fixation: autoDraw = False
+82.4055 	EXP 	grating: autoDraw = True
+82.7209 	EXP 	grating: autoDraw = False
+83.1778 	EXP 	Device response: <KeyPress from None: t=83.17187669989653, value=right, duration=None>
+83.1790 	DATA 	Keypress: right
+83.1886 	EXP 	fixation: autoDraw = False
+83.1886 	EXP 	grating: autoDraw = False
+83.1886 	EXP 	grating: ori = np.float64(-1.0)
+83.1886 	EXP 	fixation: autoDraw = True
+83.2445 	EXP 	Device response: <KeyPress from None: t=83.17187669989653, value=right, duration=0.07008110010065138>
+83.6893 	INFO 	Keyboard events cleared
+83.6891 	EXP 	fixation: autoDraw = False
+83.6891 	EXP 	grating: autoDraw = True
+83.9894 	EXP 	grating: autoDraw = False
+84.4945 	EXP 	Device response: <KeyPress from None: t=84.49003889993764, value=left, duration=None>
+84.4956 	DATA 	Keypress: left
+84.5046 	EXP 	fixation: autoDraw = False
+84.5046 	EXP 	grating: autoDraw = False
+84.5046 	EXP 	grating: ori = np.float64(1.0)
+84.5046 	EXP 	fixation: autoDraw = True
+84.6775 	EXP 	Device response: <KeyPress from None: t=84.49003889993764, value=left, duration=0.17874170001596212>
+85.0062 	INFO 	Keyboard events cleared
+85.0060 	EXP 	fixation: autoDraw = False
+85.0060 	EXP 	grating: autoDraw = True
+85.3066 	EXP 	grating: autoDraw = False
+85.8429 	EXP 	Device response: <KeyPress from None: t=85.83138239989057, value=right, duration=None>
+85.8442 	DATA 	Keypress: right
+85.8555 	EXP 	fixation: autoDraw = False
+85.8555 	EXP 	grating: autoDraw = False
+85.8555 	EXP 	grating: ori = np.float64(-1.0)
+85.8555 	EXP 	fixation: autoDraw = True
+85.9097 	EXP 	Device response: <KeyPress from None: t=85.83138239989057, value=right, duration=0.06809870013967156>
+86.3555 	INFO 	Keyboard events cleared
+86.3553 	EXP 	fixation: autoDraw = False
+86.3553 	EXP 	grating: autoDraw = True
+86.6549 	EXP 	grating: autoDraw = False
+86.8947 	EXP 	Device response: <KeyPress from None: t=86.88855899986811, value=left, duration=None>
+86.8961 	DATA 	Keypress: left
+86.9056 	EXP 	fixation: autoDraw = False
+86.9056 	EXP 	grating: autoDraw = False
+86.9056 	EXP 	grating: ori = np.float64(1.0)
+86.9056 	EXP 	fixation: autoDraw = True
+87.1434 	EXP 	Device response: <KeyPress from None: t=86.88855899986811, value=left, duration=0.25188850006088614>
+87.4056 	INFO 	Keyboard events cleared
+87.4055 	EXP 	fixation: autoDraw = False
+87.4055 	EXP 	grating: autoDraw = True
+87.7054 	EXP 	grating: autoDraw = False
+88.1776 	DATA 	Keypress: right
+88.1932 	EXP 	Device response: <KeyPress from None: t=88.17713560000993, value=right, duration=None>
+88.2064 	EXP 	fixation: autoDraw = False
+88.2064 	EXP 	grating: autoDraw = False
+88.2064 	EXP 	grating: ori = np.float64(1.0)
+88.2064 	EXP 	fixation: autoDraw = True
+88.2600 	EXP 	Device response: <KeyPress from None: t=88.17713560000993, value=right, duration=0.07516899984329939>
+88.7058 	INFO 	Keyboard events cleared
+88.7056 	EXP 	fixation: autoDraw = False
+88.7056 	EXP 	grating: autoDraw = True
+89.0055 	EXP 	grating: autoDraw = False
+89.2632 	EXP 	Device response: <KeyPress from None: t=89.25743060000241, value=right, duration=None>
+89.2645 	DATA 	Keypress: right
+89.2714 	EXP 	fixation: autoDraw = False
+89.2714 	EXP 	grating: autoDraw = False
+89.2714 	EXP 	grating: ori = np.float64(1.0)
+89.2714 	EXP 	fixation: autoDraw = True
+89.3755 	EXP 	Device response: <KeyPress from None: t=89.25743060000241, value=right, duration=0.1088968999683857>
+89.7712 	INFO 	Keyboard events cleared
+89.7710 	EXP 	fixation: autoDraw = False
+89.7710 	EXP 	grating: autoDraw = True
+90.0725 	EXP 	grating: autoDraw = False
+90.3093 	EXP 	Device response: <KeyPress from None: t=90.30041290004738, value=right, duration=None>
+90.3105 	DATA 	Keypress: right
+90.3223 	EXP 	fixation: autoDraw = False
+90.3223 	EXP 	grating: autoDraw = False
+90.3223 	EXP 	grating: ori = np.float64(1.0)
+90.3223 	EXP 	fixation: autoDraw = True
+90.4103 	EXP 	Device response: <KeyPress from None: t=90.30041290004738, value=right, duration=0.10336819989606738>
+90.8229 	INFO 	Keyboard events cleared
+90.8226 	EXP 	fixation: autoDraw = False
+90.8226 	EXP 	grating: autoDraw = True
+91.1217 	EXP 	grating: autoDraw = False
+91.3429 	EXP 	Device response: <KeyPress from None: t=91.33116060006432, value=right, duration=None>
+91.3441 	DATA 	Keypress: right
+91.3556 	EXP 	fixation: autoDraw = False
+91.3556 	EXP 	grating: autoDraw = False
+91.3556 	EXP 	grating: ori = np.float64(-1.0)
+91.3556 	EXP 	fixation: autoDraw = True
+91.4429 	EXP 	Device response: <KeyPress from None: t=91.33116060006432, value=right, duration=0.10034299991093576>
+91.8551 	INFO 	Keyboard events cleared
+91.8549 	EXP 	grating: autoDraw = True
+91.8718 	EXP 	fixation: autoDraw = False
+92.1558 	EXP 	grating: autoDraw = False
+92.4440 	EXP 	Device response: <KeyPress from None: t=92.43775120005012, value=left, duration=None>
+92.4451 	DATA 	Keypress: left
+92.4553 	EXP 	fixation: autoDraw = False
+92.4553 	EXP 	grating: autoDraw = False
+92.4553 	EXP 	grating: ori = np.float64(1.0)
+92.4553 	EXP 	fixation: autoDraw = True
+92.6273 	EXP 	Device response: <KeyPress from None: t=92.43775120005012, value=left, duration=0.18730230000801384>
+92.9555 	INFO 	Keyboard events cleared
+92.9553 	EXP 	fixation: autoDraw = False
+92.9553 	EXP 	grating: autoDraw = True
+93.2571 	EXP 	grating: autoDraw = False
+93.5786 	EXP 	Device response: <KeyPress from None: t=93.57559969997965, value=right, duration=None>
+93.5801 	DATA 	Keypress: right
+93.5887 	EXP 	fixation: autoDraw = False
+93.5887 	EXP 	grating: autoDraw = False
+93.5887 	EXP 	grating: ori = np.float64(1.0)
+93.5887 	EXP 	fixation: autoDraw = True
+93.6786 	EXP 	Device response: <KeyPress from None: t=93.57559969997965, value=right, duration=0.09405740001238883>
+94.0879 	INFO 	Keyboard events cleared
+94.0878 	EXP 	fixation: autoDraw = False
+94.0878 	EXP 	grating: autoDraw = True
+94.3888 	EXP 	grating: autoDraw = False
+94.7080 	EXP 	Device response: <KeyPress from None: t=94.70038100006059, value=right, duration=None>
+94.7090 	DATA 	Keypress: right
+94.7222 	EXP 	fixation: autoDraw = False
+94.7222 	EXP 	grating: autoDraw = False
+94.7222 	EXP 	grating: ori = np.float64(1.0)
+94.7222 	EXP 	fixation: autoDraw = True
+94.8269 	EXP 	Device response: <KeyPress from None: t=94.70038100006059, value=right, duration=0.12348979990929365>
+95.2216 	INFO 	Keyboard events cleared
+95.2215 	EXP 	fixation: autoDraw = False
+95.2215 	EXP 	grating: autoDraw = True
+95.5211 	EXP 	grating: autoDraw = False
+95.6934 	EXP 	Device response: <KeyPress from None: t=95.69154889998026, value=right, duration=None>
+95.6946 	DATA 	Keypress: right
+95.7055 	EXP 	fixation: autoDraw = False
+95.7055 	EXP 	grating: autoDraw = False
+95.7055 	EXP 	grating: ori = np.float64(-1.0)
+95.7055 	EXP 	fixation: autoDraw = True
+95.8396 	EXP 	Device response: <KeyPress from None: t=95.69154889998026, value=right, duration=0.1330814000684768>
+96.2053 	INFO 	Keyboard events cleared
+96.2051 	EXP 	fixation: autoDraw = False
+96.2051 	EXP 	grating: autoDraw = True
+96.5046 	EXP 	grating: autoDraw = False
+96.7445 	EXP 	Device response: <KeyPress from None: t=96.74094079993665, value=right, duration=None>
+96.7458 	DATA 	Keypress: right
+96.7549 	EXP 	fixation: autoDraw = False
+96.7549 	EXP 	grating: autoDraw = False
+96.7549 	EXP 	grating: ori = np.float64(-1.5)
+96.7549 	EXP 	fixation: autoDraw = True
+96.8584 	EXP 	Device response: <KeyPress from None: t=96.74094079993665, value=right, duration=0.10317680006846786>
+97.2555 	INFO 	Keyboard events cleared
+97.2553 	EXP 	fixation: autoDraw = False
+97.2553 	EXP 	grating: autoDraw = True
+97.5544 	EXP 	grating: autoDraw = False
+98.3101 	EXP 	Device response: <KeyPress from None: t=98.30898720002733, value=left, duration=None>
+98.3113 	DATA 	Keypress: left
+98.3217 	EXP 	fixation: autoDraw = False
+98.3217 	EXP 	grating: autoDraw = False
+98.3217 	EXP 	grating: ori = np.float64(1.5)
+98.3217 	EXP 	fixation: autoDraw = True
+98.5103 	EXP 	Device response: <KeyPress from None: t=98.30898720002733, value=left, duration=0.18464490002952516>
+98.8221 	INFO 	Keyboard events cleared
+98.8219 	EXP 	fixation: autoDraw = False
+98.8219 	EXP 	grating: autoDraw = True
+99.1220 	EXP 	grating: autoDraw = False
+99.6432 	EXP 	Device response: <KeyPress from None: t=99.63040150003508, value=left, duration=None>
+99.6444 	DATA 	Keypress: left
+99.6553 	EXP 	fixation: autoDraw = False
+99.6553 	EXP 	grating: autoDraw = False
+99.6553 	EXP 	grating: ori = np.float64(-2.0)
+99.6553 	EXP 	fixation: autoDraw = True
+99.8607 	EXP 	Device response: <KeyPress from None: t=99.63040150003508, value=left, duration=0.2272083000279963>
+100.1555 	INFO 	Keyboard events cleared
+100.1553 	EXP 	fixation: autoDraw = False
+100.1553 	EXP 	grating: autoDraw = True
+100.4556 	EXP 	grating: autoDraw = False
+100.6777 	EXP 	Device response: <KeyPress from None: t=100.67274719988927, value=left, duration=None>
+100.6788 	DATA 	Keypress: left
+100.6883 	EXP 	fixation: autoDraw = False
+100.6883 	EXP 	grating: autoDraw = False
+100.6883 	EXP 	grating: ori = np.float64(2.0)
+100.6883 	EXP 	fixation: autoDraw = True
+100.8760 	EXP 	Device response: <KeyPress from None: t=100.67274719988927, value=left, duration=0.19415330002084374>
+101.1890 	INFO 	Keyboard events cleared
+101.1889 	EXP 	fixation: autoDraw = False
+101.1889 	EXP 	grating: autoDraw = True
+101.4894 	EXP 	grating: autoDraw = False
+102.1255 	EXP 	Device response: <KeyPress from None: t=102.11577469995245, value=right, duration=None>
+102.1267 	DATA 	Keypress: right
+102.1387 	EXP 	fixation: autoDraw = False
+102.1387 	EXP 	grating: autoDraw = False
+102.1387 	EXP 	grating: ori = np.float64(-2.0)
+102.1387 	EXP 	fixation: autoDraw = True
+102.2103 	EXP 	Device response: <KeyPress from None: t=102.11577469995245, value=right, duration=0.09343379992060363>
+102.6388 	INFO 	Keyboard events cleared
+102.6386 	EXP 	fixation: autoDraw = False
+102.6386 	EXP 	grating: autoDraw = True
+102.9529 	EXP 	grating: autoDraw = False
+103.1603 	EXP 	Device response: <KeyPress from None: t=103.1540067999158, value=left, duration=None>
+103.1615 	DATA 	Keypress: left
+103.1711 	EXP 	fixation: autoDraw = False
+103.1711 	EXP 	grating: autoDraw = False
+103.1711 	EXP 	grating: ori = np.float64(-1.5)
+103.1711 	EXP 	fixation: autoDraw = True
+103.3425 	EXP 	Device response: <KeyPress from None: t=103.1540067999158, value=left, duration=0.17615219997242093>
+103.6711 	INFO 	Keyboard events cleared
+103.6709 	EXP 	fixation: autoDraw = False
+103.6709 	EXP 	grating: autoDraw = True
+103.9863 	EXP 	grating: autoDraw = False
+104.2442 	EXP 	Device response: <KeyPress from None: t=104.2375872998964, value=left, duration=None>
+104.2456 	DATA 	Keypress: left
+104.2556 	EXP 	fixation: autoDraw = False
+104.2556 	EXP 	grating: autoDraw = False
+104.2556 	EXP 	grating: ori = np.float64(-1.5)
+104.2556 	EXP 	fixation: autoDraw = True
+104.4774 	EXP 	Device response: <KeyPress from None: t=104.2375872998964, value=left, duration=0.2308406000956893>
+104.7550 	INFO 	Keyboard events cleared
+104.7548 	EXP 	fixation: autoDraw = False
+104.7548 	EXP 	grating: autoDraw = True
+105.0551 	EXP 	grating: autoDraw = False
+105.3244 	EXP 	Device response: <KeyPress from None: t=105.31574429990724, value=left, duration=None>
+105.3254 	DATA 	Keypress: left
+105.3380 	EXP 	fixation: autoDraw = False
+105.3380 	EXP 	grating: autoDraw = False
+105.3380 	EXP 	grating: ori = np.float64(-1.5)
+105.3380 	EXP 	fixation: autoDraw = True
+105.5103 	EXP 	Device response: <KeyPress from None: t=105.31574429990724, value=left, duration=0.18905899999663234>
+105.8394 	INFO 	Keyboard events cleared
+105.8392 	EXP 	fixation: autoDraw = False
+105.8392 	EXP 	grating: autoDraw = True
+106.1550 	EXP 	grating: autoDraw = False
+106.3925 	EXP 	Device response: <KeyPress from None: t=106.37735189986415, value=left, duration=None>
+106.3936 	DATA 	Keypress: left
+106.4046 	EXP 	fixation: autoDraw = False
+106.4046 	EXP 	grating: autoDraw = False
+106.4046 	EXP 	grating: ori = np.float64(-1.0)
+106.4046 	EXP 	fixation: autoDraw = True
+106.5738 	EXP 	Device response: <KeyPress from None: t=106.37735189986415, value=left, duration=0.1948016001842916>
+106.9058 	INFO 	Keyboard events cleared
+106.9057 	EXP 	fixation: autoDraw = False
+106.9057 	EXP 	grating: autoDraw = True
+107.2048 	EXP 	grating: autoDraw = False
+107.4595 	EXP 	Device response: <KeyPress from None: t=107.45525630004704, value=left, duration=None>
+107.4608 	DATA 	Keypress: left
+107.4712 	EXP 	fixation: autoDraw = False
+107.4712 	EXP 	grating: autoDraw = False
+107.4712 	EXP 	grating: ori = np.float64(1.0)
+107.4712 	EXP 	fixation: autoDraw = True
+107.6611 	EXP 	Device response: <KeyPress from None: t=107.45525630004704, value=left, duration=0.20005359989590943>
+107.9722 	INFO 	Keyboard events cleared
+107.9721 	EXP 	fixation: autoDraw = False
+107.9721 	EXP 	grating: autoDraw = True
+108.2706 	EXP 	grating: autoDraw = False
+108.6271 	EXP 	Device response: <KeyPress from None: t=108.62017889996059, value=right, duration=None>
+108.6283 	DATA 	Keypress: right
+108.6386 	EXP 	fixation: autoDraw = False
+108.6386 	EXP 	grating: autoDraw = False
+108.6386 	EXP 	grating: ori = np.float64(1.0)
+108.6386 	EXP 	fixation: autoDraw = True
+108.7397 	EXP 	Device response: <KeyPress from None: t=108.62017889996059, value=right, duration=0.10567749990150332>
+109.1387 	INFO 	Keyboard events cleared
+109.1385 	EXP 	fixation: autoDraw = False
+109.1385 	EXP 	grating: autoDraw = True
+109.4379 	EXP 	grating: autoDraw = False
+109.8757 	EXP 	Device response: <KeyPress from None: t=109.8733369000256, value=left, duration=None>
+109.8767 	DATA 	Keypress: left
+109.8874 	EXP 	fixation: autoDraw = False
+109.8874 	EXP 	grating: autoDraw = False
+109.8874 	EXP 	grating: ori = np.float64(-1.5)
+109.8874 	EXP 	fixation: autoDraw = True
+110.0418 	EXP 	Device response: <KeyPress from None: t=109.8733369000256, value=left, duration=0.15985589986667037>
+110.3883 	INFO 	Keyboard events cleared
+110.3882 	EXP 	fixation: autoDraw = False
+110.3882 	EXP 	grating: autoDraw = True
+110.6885 	EXP 	grating: autoDraw = False
+110.8929 	EXP 	Device response: <KeyPress from None: t=110.89145420002751, value=left, duration=None>
+110.8939 	DATA 	Keypress: left
+110.9041 	EXP 	fixation: autoDraw = False
+110.9041 	EXP 	grating: autoDraw = False
+110.9041 	EXP 	grating: ori = np.float64(-1.5)
+110.9041 	EXP 	fixation: autoDraw = True
+111.0905 	EXP 	Device response: <KeyPress from None: t=110.89145420002751, value=left, duration=0.18860609992407262>
+111.4047 	INFO 	Keyboard events cleared
+111.4045 	EXP 	fixation: autoDraw = False
+111.4045 	EXP 	grating: autoDraw = True
+111.7042 	EXP 	grating: autoDraw = False
+111.9099 	EXP 	Device response: <KeyPress from None: t=111.90026029990986, value=left, duration=None>
+111.9111 	DATA 	Keypress: left
+111.9211 	EXP 	fixation: autoDraw = False
+111.9211 	EXP 	grating: autoDraw = False
+111.9211 	EXP 	grating: ori = np.float64(-1.5)
+111.9211 	EXP 	fixation: autoDraw = True
+112.0876 	EXP 	Device response: <KeyPress from None: t=111.90026029990986, value=left, duration=0.17664760001935065>
+112.4211 	INFO 	Keyboard events cleared
+112.4209 	EXP 	fixation: autoDraw = False
+112.4209 	EXP 	grating: autoDraw = True
+112.7216 	EXP 	grating: autoDraw = False
+112.9584 	EXP 	Device response: <KeyPress from None: t=112.95454619987868, value=left, duration=None>
+112.9595 	DATA 	Keypress: left
+112.9709 	EXP 	fixation: autoDraw = False
+112.9709 	EXP 	grating: autoDraw = False
+112.9709 	EXP 	grating: ori = np.float64(1.0)
+112.9709 	EXP 	fixation: autoDraw = True
+113.1882 	EXP 	Device response: <KeyPress from None: t=112.95454619987868, value=left, duration=0.23285160004161298>
+113.4721 	INFO 	Keyboard events cleared
+113.4720 	EXP 	fixation: autoDraw = False
+113.4720 	EXP 	grating: autoDraw = True
+113.7877 	EXP 	grating: autoDraw = False
+114.1437 	EXP 	Device response: <KeyPress from None: t=114.14143739989959, value=left, duration=None>
+114.1448 	DATA 	Keypress: left
+114.1545 	EXP 	fixation: autoDraw = False
+114.1545 	EXP 	grating: autoDraw = False
+114.1545 	EXP 	grating: ori = np.float64(-1.5)
+114.1545 	EXP 	fixation: autoDraw = True
+114.3741 	EXP 	Device response: <KeyPress from None: t=114.14143739989959, value=left, duration=0.2236377999652177>
+114.6549 	INFO 	Keyboard events cleared
+114.6547 	EXP 	fixation: autoDraw = False
+114.6547 	EXP 	grating: autoDraw = True
+114.9540 	EXP 	grating: autoDraw = False
+115.0927 	EXP 	Device response: <KeyPress from None: t=115.08977249986492, value=left, duration=None>
+115.0941 	DATA 	Keypress: left
+115.1040 	EXP 	fixation: autoDraw = False
+115.1040 	EXP 	grating: autoDraw = False
+115.1040 	EXP 	grating: ori = np.float64(-1.5)
+115.1040 	EXP 	fixation: autoDraw = True
+115.3262 	EXP 	Device response: <KeyPress from None: t=115.08977249986492, value=left, duration=0.22547260019928217>
+115.6047 	INFO 	Keyboard events cleared
+115.6046 	EXP 	fixation: autoDraw = False
+115.6046 	EXP 	grating: autoDraw = True
+115.9046 	EXP 	grating: autoDraw = False
+116.1405 	EXP 	Device response: <KeyPress from None: t=116.12860589986667, value=left, duration=None>
+116.1415 	DATA 	Keypress: left
+116.1541 	EXP 	fixation: autoDraw = False
+116.1541 	EXP 	grating: autoDraw = False
+116.1541 	EXP 	grating: ori = np.float64(-1.5)
+116.1541 	EXP 	fixation: autoDraw = True
+116.3582 	EXP 	Device response: <KeyPress from None: t=116.12860589986667, value=left, duration=0.21789410011842847>
+116.6542 	INFO 	Keyboard events cleared
+116.6541 	EXP 	fixation: autoDraw = False
+116.6541 	EXP 	grating: autoDraw = True
+116.9553 	EXP 	grating: autoDraw = False
+117.3254 	EXP 	Device response: <KeyPress from None: t=117.3209408998955, value=left, duration=None>
+117.3266 	DATA 	Keypress: left
+117.3381 	EXP 	fixation: autoDraw = False
+117.3381 	EXP 	grating: autoDraw = False
+117.3381 	EXP 	grating: ori = np.float64(-1.0)
+117.3381 	EXP 	fixation: autoDraw = True
+117.4941 	EXP 	Device response: <KeyPress from None: t=117.3209408998955, value=left, duration=0.17171040014363825>
+117.8384 	INFO 	Keyboard events cleared
+117.8383 	EXP 	fixation: autoDraw = False
+117.8383 	EXP 	grating: autoDraw = True
+118.1373 	EXP 	grating: autoDraw = False
+118.3925 	EXP 	Device response: <KeyPress from None: t=118.3779531000182, value=left, duration=None>
+118.3936 	DATA 	Keypress: left
+118.4045 	EXP 	fixation: autoDraw = False
+118.4045 	EXP 	grating: autoDraw = False
+118.4045 	EXP 	grating: ori = np.float64(1.0)
+118.4045 	EXP 	fixation: autoDraw = True
+118.6610 	EXP 	Device response: <KeyPress from None: t=118.3779531000182, value=left, duration=0.277261900017038>
+118.9047 	INFO 	Keyboard events cleared
+118.9046 	EXP 	fixation: autoDraw = False
+118.9046 	EXP 	grating: autoDraw = True
+119.2194 	EXP 	grating: autoDraw = False
+119.4930 	EXP 	Device response: <KeyPress from None: t=119.48557669995353, value=left, duration=None>
+119.4938 	DATA 	Keypress: left
+119.5039 	EXP 	fixation: autoDraw = False
+119.5039 	EXP 	grating: autoDraw = False
+119.5082 	EXP 	adaptive staircase_1: status = STOPPED
+119.5832 	INFO 	saved data to 'C:\\Users\\anupg\\OneDrive\\Documents\\psychopy\\data\\pilot_adaptive staircase_1_2026-09-27_22h48.48.762.csv'
+119.6015 	INFO 	saved data to C:\Users\anupg\OneDrive\Documents\psychopy\data\pilot_adaptive staircase_1_2026-09-27_22h48.48.762.psydat
+120.0056 	DEBUG 	Saving data for adaptive staircase_1 ExperimentHandler
+120.0056 	INFO 	Stopping keyboard key buffers.
